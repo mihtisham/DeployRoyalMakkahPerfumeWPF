@@ -507,7 +507,7 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>DataSet1</DataSetName>
-            <Top>2.60581in</Top>
+            <Top>2.35942in</Top>
             <Left>0.00334in</Left>
             <Height>0.44166in</Height>
             <Width>2.68653in</Width>
@@ -571,7 +571,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.75859in</Top>
+            <Top>3.50859in</Top>
             <Left>0.89405in</Left>
             <Height>0.21667in</Height>
             <Width>1.80408in</Width>
@@ -622,8 +622,8 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.30858in</Top>
-            <Left>0.89405in</Left>
+            <Top>2.8308in</Top>
+            <Left>0.89071in</Left>
             <Height>0.21667in</Height>
             <Width>1.80408in</Width>
             <ZIndex>3</ZIndex>
@@ -676,7 +676,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.51414in</Top>
+            <Top>3.26414in</Top>
             <Left>0.89405in</Left>
             <Height>0.21667in</Height>
             <Width>1.79581in</Width>
@@ -730,7 +730,7 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>3.07524in</Top>
+            <Top>3.04747in</Top>
             <Left>0.89071in</Left>
             <Height>0.21667in</Height>
             <Width>1.80408in</Width>
@@ -776,10 +776,10 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.30942in</Top>
+            <Top>1.87053in</Top>
             <Left>0.01162in</Left>
             <Height>0.21667in</Height>
-            <Width>1.10856in</Width>
+            <Width>2.66663in</Width>
             <ZIndex>6</ZIndex>
             <Visibility>
               <Hidden>=IIf(len(First(Fields!OrderNumber.Value, "DataSet2")) &gt; 0 ,false,true)</Hidden>
@@ -822,10 +822,10 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <Top>2.30942in</Top>
-            <Left>1.18962in</Left>
+            <Top>2.11498in</Top>
+            <Left>0.01162in</Left>
             <Height>0.21667in</Height>
-            <Width>1.51344in</Width>
+            <Width>2.66663in</Width>
             <ZIndex>7</ZIndex>
             <Visibility>
               <Hidden>=IIf((First(Fields!PunchedTime.Value, "DataSet2") Is Nothing),true, false)</Hidden>
@@ -847,7 +847,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>4-B Unique Tower, Opposite Nadra Office, Kohinoor</Value>
+                    <Value>, Kohinoor</Value>
                     <Style>
                       <FontFamily>Times New Roman</FontFamily>
                       <FontSize>12pt</FontSize>
@@ -861,7 +861,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>4.0447in</Top>
+            <Top>4.15304in</Top>
+            <Left>0.02816in</Left>
             <Height>0.44167in</Height>
             <Width>2.67825in</Width>
             <ZIndex>8</ZIndex>
@@ -882,22 +883,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>041-6076725</Value>
-                    <Style>
-                      <FontFamily>Times New Roman</FontFamily>
-                      <FontSize>12pt</FontSize>
-                      <FontWeight>Normal</FontWeight>
-                    </Style>
-                  </TextRun>
-                </TextRuns>
-                <Style>
-                  <TextAlign>Center</TextAlign>
-                </Style>
-              </Paragraph>
-              <Paragraph>
-                <TextRuns>
-                  <TextRun>
-                    <Value>0311-6076725</Value>
+                    <Value>0300-6629002</Value>
                     <Style>
                       <FontFamily>Times New Roman</FontFamily>
                       <FontSize>12pt</FontSize>
@@ -911,7 +897,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>1.88719in</Top>
+            <Top>3.73915in</Top>
+            <Left>0.02816in</Left>
             <Height>0.4in</Height>
             <Width>2.67825in</Width>
             <ZIndex>9</ZIndex>
@@ -926,7 +913,7 @@
             </Style>
           </Textbox>
         </ReportItems>
-        <Height>4.48637in</Height>
+        <Height>4.59471in</Height>
         <Style>
           <Border>
             <Style>None</Style>

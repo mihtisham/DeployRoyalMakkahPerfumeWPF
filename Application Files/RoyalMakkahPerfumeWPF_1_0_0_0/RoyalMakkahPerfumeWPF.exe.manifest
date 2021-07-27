@@ -138,26 +138,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.exe" size="161240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.exe" size="177624">
       <assemblyIdentity name="RoyalMakkahPerfumeWPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XoUpm0qgOTVnMjPtgvjxmf9fAEXxfU+etjr4VTHXWR8=</dsig:DigestValue>
+        <dsig:DigestValue>cZAEkqhwbK4G3S41cr8MwSPVCeuNWoukcw9ttDXgRhY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.Data.dll" size="84480">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.Data.dll" size="92672">
       <assemblyIdentity name="RoyalMakkahPerfumeWPF.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7RlVdKhMWliUqv6k77YRsXYar2SnGWfyeWEAZBxMENs=</dsig:DigestValue>
+        <dsig:DigestValue>Fn7VSeakJbeTW4Hb7HJiwTrByUzLKEP6r3fkPiQ5eMI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -169,19 +169,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FooF9yumi+2jXTFu1Lhbg4TalwuT+QEsQW8W/6bkq9E=</dsig:DigestValue>
+        <dsig:DigestValue>ZYMw6+p7C8qUwC7nfGpX7bNjBE7ONWhBgy89jRHfki0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.Service.dll" size="17408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RoyalMakkahPerfumeWPF.Service.dll" size="17920">
       <assemblyIdentity name="RoyalMakkahPerfumeWPF.Service" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NU6nfi09dpOKGVNpTuQODDF7llmP24S/9zi7FDvlVfg=</dsig:DigestValue>
+        <dsig:DigestValue>K7dGUG0LdMXKbQmH2fMIXj+fNpFGe+BxmbZLPm36pbI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -485,13 +485,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Receipt.rdlc" size="39969">
+  <file name="Receipt.rdlc" size="39456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Lu4ZOI8T+B2IVq4I5KRmjErrflMl4NpGuQHHZk0o9Xk=</dsig:DigestValue>
+      <dsig:DigestValue>vy9GZ8hdmWS7OD4iZgnFbXm3W89WPjYZ/4JkcwId9sI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RoyalMakkahPerfumeWPF.exe.config" size="2164">
@@ -500,7 +500,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>PakDeRP2Yu9ghUzJtax3096enrkRVE1r/D/DUOhdd6A=</dsig:DigestValue>
+      <dsig:DigestValue>NT3IQG9A1We7425ZfRK/hTolE9ct2vKawn23kKaJFUQ=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=DESKTOP-A4NJUGD\DELL" issuerKeyHash="67d1964b48304d3669e0746d4a238a27cc7d8cbf" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TZzb91QYqDspWnQmiapGFsSAGXiOsj475Cn5kwKjOLw=</DigestValue></Reference></SignedInfo><SignatureValue>XIei98feNaN6AHROpMMgx+8WCyRU/Q1lTuxBArGgK/yeN4Q9sLgdAjqVqypSjzMzMp97HmuF87gn0Y8Qoxx+dHveqp2x6ngaC8XLDm8ZHe6zFR1jsw2TLwW3bnmTenKFGBnOINnkpg1ezqJhTdIAoxid2p0IjuBGaHzqDDnnmkY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bc38a30293f929e43b3eb28e781980c41646aa8926745a293ba81854f7db9c4d" Description="" Url=""><as:assemblyIdentity name="RoyalMakkahPerfumeWPF.exe" version="1.0.0.0" publicKeyToken="0bb49a30d91ebe2a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-A4NJUGD\DELL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JMukv7wIXKyOv2kbBC+RfITfl1eq18KypTcofK0YxkI=</DigestValue></Reference></SignedInfo><SignatureValue>ZIwT5VeDN/uhOKURgUpeDcJt5ed1Tb4j79e9UUuy2etZkAed7islN/zb3qiXItLKWKBAMPw/NVMiJdQ31GKKAYUU2gNky/uuz9lBNavthogfheK7tAw6IDemn2a/GAUpoXGgx0MMTew4sxdZV8gwcef5eu8ZyH9fPFY7Wl24hro=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQcN26EPksLIpPeprSAblzvzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEEANABOAEoAVQBHAEQAXABEAEUATABMMB4XDTIxMDcyNjE0MTM0NFoXDTIyMDcyNjIwMTM0NFowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBBADQATgBKAFUARwBEAFwARABFAEwATDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAECAwEAATANBgkqhkiG9w0BAQsFAAOBgQA3CZp2Ocpw9Uw2XbsBHrZsS2FIyuLvUZbzVSytZ+2DvzdTeKZSXGELn1ctjnLEwoJ2pHI9q/Hx+EOTbcntmsNvh1RLDsloj31Y++hoyIfvZu0awmTNe8cpvuOCtzfMwa9+y74KbLFJZLuL8lKdgpOEw1cfhfLkxFedZ9pO0b8a9A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-A4NJUGD\DELL" issuerKeyHash="67d1964b48304d3669e0746d4a238a27cc7d8cbf" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>K654g21DKwJZsAUJpewoi1gDLVDv8o+Nr8KXWsKNYrI=</DigestValue></Reference></SignedInfo><SignatureValue>TkhIcmiVz3vF99+jNCueTOIjdSWoYxv2J79EqMb6UGchL9+obYOnVd2cHUYUqwlrtMZuUSUopcAjUjbkt26TqFnUaOVVQm8d76ultVYw7aTkfgb1YzX6cVEM/jKtL5HAj7V17P/vxbSSVBUcfYfww0AYdcN0kDgkjc8zJtE/hWs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b2628dc25a97c2af8d8ff2ef502d03588b28eca50905b059022b436d8378ae2b" Description="" Url=""><as:assemblyIdentity name="RoyalMakkahPerfumeWPF.exe" version="1.0.0.0" publicKeyToken="0bb49a30d91ebe2a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-A4NJUGD\DELL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>05BCwkZNfZzrLnk2+L5Iz0DZYcQZtG5LmF/ujZyaBe8=</DigestValue></Reference></SignedInfo><SignatureValue>EQd8fZ7eUJsjLz1rcA0eEslCqS/OIs483sGXgiKI57eTwCyVrgU4Fx1bnLssErmZLt3bYnmYgPqjjwJx0nnQ/ABuJpis7v12tnTtYu+szKhyDmWmtPC+d1LQWNnqdNm/zd/Cov8h8uKo09LNQzoz4wbSZ7RK8zINW3pGOShiXm0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQcN26EPksLIpPeprSAblzvzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEEANABOAEoAVQBHAEQAXABEAEUATABMMB4XDTIxMDcyNjE0MTM0NFoXDTIyMDcyNjIwMTM0NFowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBBADQATgBKAFUARwBEAFwARABFAEwATDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlFQTH37fP5NzbfYAMy7IraArhJBxE2P3E6VzRP47mQmgNdrH6M/TDDcwcOYekrXGDKjgdRyHX167KkQf4qFNLGpwZ0dl8GgR89AnI3ns+IHdo2uPMKjeIq4oGDhvOyC6dtKpuBact5XWeSaKkrOKXCGtx4LvRiXdA/BVpC6jZAECAwEAATANBgkqhkiG9w0BAQsFAAOBgQA3CZp2Ocpw9Uw2XbsBHrZsS2FIyuLvUZbzVSytZ+2DvzdTeKZSXGELn1ctjnLEwoJ2pHI9q/Hx+EOTbcntmsNvh1RLDsloj31Y++hoyIfvZu0awmTNe8cpvuOCtzfMwa9+y74KbLFJZLuL8lKdgpOEw1cfhfLkxFedZ9pO0b8a9A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
