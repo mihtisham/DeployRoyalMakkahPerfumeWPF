@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="RoyalMakkahPerfumeWPF.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <userSettings>
+    <RoyalMakkahPerfumeWPF.Properties.Settings>
+      <setting name="UserId" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="UserName" serializeAs="String">
+        <value />
+      </setting>
+    </RoyalMakkahPerfumeWPF.Properties.Settings>
+  </userSettings>
+  <connectionStrings>
+    <!--<add name="DatabaseEntities" connectionString="data source=localhost\SQLEXPRESS;Initial Catalog=RoyalMakkahPerfume_1;User ID=sa;Password=123456789;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+            providerName="System.Data.SqlClient" />-->
+    <add name="DatabaseEntities" connectionString="data source=localhost\SQLEXPRESS;Initial Catalog=RoyalMakkahPerfume_1;User ID=sa;Password=RoyalMakkahPerfume@syntaxdevelopers;App=EntityFramework" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Syncfusion.Licensing" publicKeyToken="632609b4d040f6b4" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-17.4460.0.55" newVersion="17.4460.0.55" />
+      </dependentAssembly>
+    </assemblyBinding>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Syncfusion.Shared.Wpf" publicKeyToken="3d67ed1f87d44c89" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-17.4460.0.55" newVersion="17.4460.0.55" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
